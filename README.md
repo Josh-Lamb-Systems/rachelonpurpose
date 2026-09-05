@@ -18,3 +18,5 @@ The included workflow deploys the `dist` directory whenever changes are pushed t
 ## Content notes
 
 The current photography, captions, and biography copy are polished placeholders. Replace them with Rachel's approved assets before public launch.
+
+<!-- GitHub Pages deployment trigger: 2026-09-04 -->
